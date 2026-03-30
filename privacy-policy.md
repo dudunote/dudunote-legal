@@ -54,7 +54,7 @@
 
 ### 3.2 iCloud 同步
 
-本应用使用 Apple CloudKit 服务实现数据同步。CloudKit 数据存储于您的 iCloud 账户中，受 Apple 隐私政策保护。详情请参阅 [Apple 隐私政策](https://www.apple.com/legal/privacy/cn/)。
+本应用使用 Apple CloudKit 服务实现数据同步。CloudKit 数据存储于您的 iCloud 账户中，受 Apple 隐私政策保护。详情请参阅 [Apple 隐私政策](https://www.apple.com/legal/privacy/szh/)。
 
 ---
 
