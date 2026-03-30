@@ -64,8 +64,8 @@
 
 | 服务            | 用途         | 隐私政策                                        |
 | --------------- | ------------ | ----------------------------------------------- |
-| Apple CloudKit  | 数据云端同步 | [查看](https://www.apple.com/legal/privacy/cn/) |
-| Apple App Store | 内购订阅处理 | [查看](https://www.apple.com/legal/privacy/cn/) |
+| Apple CloudKit  | 数据云端同步 | [查看](https://www.apple.com/legal/privacy/szh/) |
+| Apple App Store | 内购订阅处理 | [查看](https://www.apple.com/legal/privacy/szh/) |
 
 本应用**不包含**任何广告 SDK 或第三方数据统计工具。
 
